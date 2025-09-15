@@ -1,4 +1,4 @@
-# UC-AV-QOS-Automation
+# UC-AV-QOS-Automated
 Real-Time, Multi-Vendor UC/AV Network QoS Automation for Cisco & Netgear Switches
 
 
@@ -47,7 +47,7 @@ This Python script automates **Quality of Service (QoS) management** for audio/v
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Khal1d-waheed/UC-AV-QOS-Automation.git
+git clone https://github.com/Khal1d-waheed/UC-AV-QOS-Automated.git
 
 cd uc-av-qos-automation
 ```
