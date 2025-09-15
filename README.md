@@ -49,7 +49,7 @@ This Python script automates **Quality of Service (QoS) management** for audio/v
 ```bash
 git clone https://github.com/Khal1d-waheed/UC-AV-QOS-Automated.git
 
-cd uc-av-qos-automation
+cd uc-av-qos-automated
 ```
 
 2. **Run the script:**
